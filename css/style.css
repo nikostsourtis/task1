@@ -1,0 +1,58 @@
+body {
+  background-color: #888;
+}
+.red {
+  color: #ea464b;
+}
+.orange {
+  color: #ff9900;
+}
+.green {
+  color: #70a51a;
+}
+#ajaxData {
+  display: none;
+}
+.firstLine {
+  background-color: #efefef;
+}
+.secondLine {
+  background-color: #d6d6d6;
+}
+td {
+  padding: 2px 5px;
+}
+.greenDot {
+  height: 15px;
+  width: 15px;
+  background-color: #70a51a;
+  border-radius: 50%;
+  display: inline-block;
+}
+.orangeDot {
+  height: 15px;
+  width: 15px;
+  background-color: #ff9900;
+  border-radius: 50%;
+  display: inline-block;
+}
+.redDot {
+  height: 15px;
+  width: 15px;
+  background-color: #ea464b;
+  border-radius: 50%;
+  display: inline-block;
+}
+.header {
+  padding: 0px 10px 10px 5px;
+  color: #efefef;
+}
+.fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 0px 10px 10px 5px;
+  color: #efefef;
+  background-color: #444;
+}
